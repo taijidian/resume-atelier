@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+private/
+backups/
+*.pdf
+*.zip
+*备份*.json
+*优化版*.json

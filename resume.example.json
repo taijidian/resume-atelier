@@ -1,0 +1,92 @@
+{
+  "basic": {
+    "name": "你的姓名",
+    "phone": "请填写手机号",
+    "email": "hello@example.com",
+    "gender": "",
+    "city": "",
+    "target": "",
+    "photo": "",
+    "showPhoto": false
+  },
+  "settings": {
+    "template": "classic",
+    "size": 10,
+    "line": 1.65,
+    "accent": "#137b70"
+  },
+  "sections": [
+    {
+      "title": "教育背景",
+      "enabled": true,
+      "items": [
+        {
+          "title": "示例大学",
+          "meta": "示例学院 | 工程专业 | 硕士",
+          "date": "2020-09 至 2023-06",
+          "body": "相关课程：系统设计 / 工程分析 / 实验方法"
+        }
+      ]
+    },
+    {
+      "title": "工作经历",
+      "enabled": true,
+      "items": [
+        {
+          "title": "示例科技有限公司",
+          "meta": "研发工程师",
+          "date": "2023-07 至今",
+          "body": "承担示例产品的系统研发，参与从需求分析、原型验证到产品交付的开发过程。\n将需求转化为设计方案，结合仿真与实验验证评估关键性能。\n与跨职能团队协作，解决研发与交付过程中的技术问题。\n请将以上演示文字替换为你的真实职责和成果。"
+        }
+      ]
+    },
+    {
+      "title": "项目经历",
+      "enabled": true,
+      "items": [
+        {
+          "title": "示例系统研发项目",
+          "meta": "研发工程师",
+          "date": "2024-01 至 2024-12",
+          "body": "开展需求分析与原型开发，验证方案可行性。\n设计实验与测试方法，分析结果并迭代方案。\n在这里填写你真实的技术贡献、验证结果和交付成果。"
+        }
+      ]
+    },
+    {
+      "title": "论文期刊",
+      "enabled": false,
+      "items": [
+        {
+          "title": "示例论文或专利名称",
+          "meta": "作者排序、期刊或专利号",
+          "date": "发表时间",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "title": "个人优势",
+      "enabled": false,
+      "items": [
+        {
+          "title": "",
+          "meta": "",
+          "date": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "title": "专业技能",
+      "enabled": false,
+      "items": [
+        {
+          "title": "",
+          "meta": "",
+          "date": "",
+          "body": ""
+        }
+      ]
+    }
+  ]
+}
